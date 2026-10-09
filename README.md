@@ -1,4 +1,4 @@
-# Hi there, I'm Aria Saputra 👋
+# Hi there, I'm Adri 👋
 
 I build software for real-world operations — mostly around **laboratory information systems**, **AI agent infrastructure**, and **automation** that actually ships.
 
@@ -14,7 +14,7 @@ I build software for real-world operations — mostly around **laboratory inform
 
 ## 📊 Stats
 
-![Aria's GitHub stats](https://github-readme-stats.vercel.app/api?username=adri-cry&show_icons=true&theme=tokyonight)
+![Adri's GitHub stats](https://github-readme-stats.vercel.app/api?username=adri-cry&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adri-cry&layout=compact&theme=tokyonight)
 
 ## 📫 Reach me
